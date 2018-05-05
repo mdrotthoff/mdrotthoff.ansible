@@ -7,3 +7,6 @@
 [submodule "linux-system-roles.network"]
 	path = linux-system-roles.network
 	url = git@github.com:mdrotthoff/linux-system-roles.network
+[submodule "openstack.ara"]
+	path = openstack.ara
+	url = git@github.com:mdrotthoff/openstack.ara.git
