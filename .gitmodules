@@ -16,3 +16,6 @@
 [submodule "wtcross.sudoers"]
 	path = wtcross.sudoers
 	url = git@github.com:mdrotthoff/wtcross.sudoers.git
+[submodule "mdrotthoff.ansible-node"]
+	path = mdrotthoff.ansible-node
+	url = git@github.com:mdrotthoff/mdrotthoff.ansible-node.git
