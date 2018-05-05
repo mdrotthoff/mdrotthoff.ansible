@@ -19,3 +19,6 @@
 [submodule "mdrotthoff.ansible-node"]
 	path = mdrotthoff.ansible-node
 	url = git@github.com:mdrotthoff/mdrotthoff.ansible-node.git
+[submodule "mdrotthoff.ansible-server"]
+	path = mdrotthoff.ansible-server
+	url = git@github.com:mdrotthoff/mdrotthoff.ansible-server.git
