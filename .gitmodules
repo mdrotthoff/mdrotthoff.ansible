@@ -10,3 +10,6 @@
 [submodule "openstack.ara"]
 	path = openstack.ara
 	url = git@github.com:mdrotthoff/openstack.ara.git
+[submodule "ansible"]
+	path = ansible
+	url = git@github.com:mdrotthoff/ansible.git
