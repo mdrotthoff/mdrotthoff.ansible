@@ -13,3 +13,6 @@
 [submodule "ansible"]
 	path = ansible
 	url = git@github.com:mdrotthoff/ansible.git
+[submodule "wtcross.sudoers"]
+	path = wtcross.sudoers
+	url = git@github.com:mdrotthoff/wtcross.sudoers.git
