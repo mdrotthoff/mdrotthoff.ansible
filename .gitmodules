@@ -1,3 +1,6 @@
 [submodule "bfmartin.ssh_known_hosts"]
 	path = bfmartin.ssh_known_hosts
 	url = git@github.com:mdrotthoff/bfmartin.ssh_known_hosts.git
+[submodule "linux-system-roles.firewall"]
+	path = linux-system-roles.firewall
+	url = git@github.com:mdrotthoff/linux-system-roles.firewall
