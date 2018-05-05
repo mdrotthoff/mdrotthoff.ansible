@@ -22,3 +22,6 @@
 [submodule "mdrotthoff.ansible-server"]
 	path = mdrotthoff.ansible-server
 	url = git@github.com:mdrotthoff/mdrotthoff.ansible-server.git
+[submodule "mdrotthoff.basic-config"]
+	path = mdrotthoff.basic-config
+	url = git@github.com:mdrotthoff/mdrotthoff.basic-config.git
