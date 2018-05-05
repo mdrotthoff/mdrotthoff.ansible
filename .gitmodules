@@ -4,3 +4,6 @@
 [submodule "linux-system-roles.firewall"]
 	path = linux-system-roles.firewall
 	url = git@github.com:mdrotthoff/linux-system-roles.firewall
+[submodule "linux-system-roles.network"]
+	path = linux-system-roles.network
+	url = git@github.com:mdrotthoff/linux-system-roles.network
