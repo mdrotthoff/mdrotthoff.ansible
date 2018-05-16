@@ -25,3 +25,6 @@
 [submodule "mdrotthoff.basic-config"]
 	path = mdrotthoff.basic-config
 	url = git@github.com:mdrotthoff/mdrotthoff.basic-config.git
+[submodule "mdrotthoff.opsview-agent"]
+	path = mdrotthoff.opsview-agent
+	url = git@ghe.coxautoinc.com:David-Rotthoff/mdrotthoff.opsview-agent.git
