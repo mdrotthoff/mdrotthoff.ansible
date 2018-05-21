@@ -28,3 +28,6 @@
 [submodule "mdrotthoff.opsview-agent"]
 	path = mdrotthoff.opsview-agent
 	url = git@ghe.coxautoinc.com:David-Rotthoff/mdrotthoff.opsview-agent.git
+[submodule "mdrotthoff.opsview-plugin"]
+	path = mdrotthoff.opsview-plugin
+	url = git@github.com:mdrotthoff/mdrotthoff.opsview-plugin.git
