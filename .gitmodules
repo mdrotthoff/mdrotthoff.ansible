@@ -34,3 +34,6 @@
 [submodule "mdrotthoff.opsview-agent"]
 	path = mdrotthoff.opsview-agent
 	url = git@github.com:mdrotthoff/mdrotthoff.opsview-agent.git
+[submodule "mdrotthoff.sshknownhosts"]
+	path = mdrotthoff.sshknownhosts
+	url = git@github.com:mdrotthoff/mdrotthoff.sshknownhosts.git
